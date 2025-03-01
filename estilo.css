@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    background-image: url('gatosbg.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+.texto-estilizado {
+    color: skyblue;
+}
+.fundo {
+    width: 100%;
+    height: 400px;
+    background-image: url('cat.jpg');
+    background-size: cover;
+    background-position: center;
+}
